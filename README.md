@@ -96,3 +96,23 @@ Alternatively, you can install the core packages manually. This project was deve
 * `torchvision==0.19.1+cu121`
 * `datasets==2.21.0`
 * `transformers==4.44.2`
+
+# 📚 Citation
+
+If you use ViTNat in a scientific publication, we would appreciate citations to the following preprint:
+
+Rim, N., Veillette, J., Lee, S., Kardan, O., Krishnan, S., Bainbridge, W. A., & Berman, M. (2025, May 15). Natural scenes are more compressible and less memorable than human-made scenes. https://doi.org/10.31234/osf.io/xw3ek_v1
+
+Bibtex entry:
+
+```bibtex
+@misc{rim_veillette_lee_kardan_krishnan_bainbridge_berman_2025,
+ title={Natural scenes are more compressible and less memorable than human-made scenes},
+ url={osf.io/preprints/psyarxiv/xw3ek_v1},
+ DOI={10.31234/osf.io/xw3ek_v1},
+ publisher={PsyArXiv},
+ author={Rim, Nakwon and Veillette, John and Lee, Sunny and Kardan, Omid and Krishnan, Sanjay and Bainbridge, Wilma A and Berman, Marc},
+ year={2025},
+ month={May}
+}
+```
